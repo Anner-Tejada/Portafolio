@@ -7,12 +7,7 @@ const About = () => {
         <div className="">
           <h2 className="text-white text-2xl">Sobre mi</h2>
           <p className="text-md text-gray-300 mt-6">
-            Soy una persona con gran habilidad de adaptación, curiosa por naturaleza, me encanta explorar todas
-            las fronteras del desarrollo de software, saber que formo parte de
-            la era de la tecnología es algo que me llena de
-            ilusión.
-            <br /><br />
-            Estoy abierto aprender todo lo que me permita el disco duro y a compartir el conocimiento que haya adquirido.
+          Tres puntos importantes: Preparación, ayudar y aprender. La experiencia que he obtenido me a enseñado como es el cambo de batalla y a estar preparado para casi cualquier cosa. Porque nunca está de más echar el hombro. Siempre estoy aprendiendo cosas nuevas dándome cada vez un perfil mas polivalente.
           </p>
         </div>
         <div>
